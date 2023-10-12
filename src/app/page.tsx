@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main
-      className="flex items-center justify-center h-screen bg-center bg-no-repeat bg-cover"
+      className="flex items-center justify-center h-screen bg-center bg-no-repeat bg-cover bg-neutral-950"
       style={{ backgroundImage: "url(/nongif.gif)" }}
     >
       <div className="text-center">
