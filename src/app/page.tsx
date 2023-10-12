@@ -5,8 +5,8 @@ export default function Home() {
       style={{ backgroundImage: "url(/nongif.gif)" }}
     >
       <div className="text-center">
-        <h1>Now or Never</h1>
-        <p>🚧 Under Construction 🚧</p>
+        <h1 className="text-4xl font-sans">Now or Never</h1>
+        <p className="italic text-yellow-300">(eventually...)</p>
       </div>
     </main>
   );
