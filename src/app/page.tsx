@@ -6,7 +6,7 @@ export default function Home() {
     >
       <div className="text-center">
         <h1>Now or Never</h1>
-        <p>🚧Under Construction🚧</p>
+        <p>🚧 Under Construction 🚧</p>
       </div>
     </main>
   );
